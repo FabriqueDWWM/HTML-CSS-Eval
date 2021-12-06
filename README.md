@@ -11,22 +11,16 @@ Vous allez coder une maquette relativement complexe (pages *Desktop* et *respons
 - Limitez l'usage des ids et des classes.
 - Pour le css, vous pouvez utiliser scss.
 
----
-
 ## Responsive
 
 - Deux versions de la maquette vous sont fournies : desktop et mobile (nommée responsive). Adaptez à votre envie pour les tablettes (768px).
 - Evitez de fixer des dimensions. Privilégiez le comportement adaptatif plutôt que les tailles précises de la maquette.
 - Donner les dimensions des textes en rem.
 
----
-
 ## Conseils d'organisation
 
 - Repérez les différentes sections et estimez-en la difficulté.
 - Développez en priorité ce qui vous semble le plus accessible.
-
----
 
 ## Conseils techniques
 
