@@ -1,7 +1,7 @@
 
 # Développement d'une maquette - Durée 7h
 
-> Compétence évaluée : Réaliser une interface statique et adaptable
+> Compétence évaluée : Réaliser une interface web statique et adaptable
 
 Vous allez coder une maquette relativement complexe (pages *Desktop* et *responsive* du fichier maquette/Nessou.fig), voici les consignes :
 
